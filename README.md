@@ -1,9 +1,7 @@
 # Tugas3-Grafkom-WebGL
-<h3> Danar Sodik Priyambodo 
-<br>
-<h3> 5025211145
-<br>
-<h3>Grafkom-A
+- Danar Sodik Priyambodo 
+- 5025211145
+- Grafkom-A
 
 ---
 
