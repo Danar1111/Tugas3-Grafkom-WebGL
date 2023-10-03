@@ -1,4 +1,11 @@
 # Tugas3-Grafkom-WebGL
+<h3> Danar Sodik Priyambodo 
+<br>
+<h3> 5025211145
+<br>
+<h3>Grafkom-A
+
+---
 
 ## The RGB Triangle to Rectangel in WebGL
 untuk file yang di edit untuk menghasilkan persegi pada bentuk awal segitiga adalah pada program berikut :
